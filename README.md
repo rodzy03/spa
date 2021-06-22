@@ -15,14 +15,9 @@
 
 
 ## File Locations
-Files i use is located in
 
-decode_tech/app/Http/Controllers/AdminController.php
-
-decode_tech/routes/web.php
-
-decode_tech/resources/views/landing_page.blade.php
-
-decode_tech/resources/views/verify_email.blade.php
-
-database is inside folder decode_tech.sql
+1. decode_tech/app/Http/Controllers/AdminController.php
+2 .decode_tech/routes/web.php
+3. decode_tech/resources/views/landing_page.blade.php
+4. decode_tech/resources/views/verify_email.blade.php
+5. database is inside folder decode_tech.sql
